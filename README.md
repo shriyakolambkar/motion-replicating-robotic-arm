@@ -1,8 +1,5 @@
 # Motion Replicating Robotic Arm
 
-A computer vision-based robotic system that replicates human hand movements through real-time gesture recognition.  
-Integrating Python, OpenCV and Arduino, it enables intuitive, sensor-free control of a five-finger robotic hand.
-
 ## Overview
 
 The Motion Replicating Robotic Arm is a computer vision-based project designed to replicate human hand movements using a robotic hand. The system captures hand gestures through a webcam, processes the visual input using Python and computer vision techniques, and sends corresponding signals to an Arduino board to control servo motors.
